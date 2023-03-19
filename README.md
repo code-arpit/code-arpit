@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @code-arpit
-- 👀 I’m interested in IOT and Machine Learning Concepts.
 - 🌱 I’m currently learning python and trying to develop end-to-end projects.
-- 💞️ I’m looking to collaborate on different backend and deployement domains.
+- 💞️ I’m looking to collaborate on different backend and deployment domains.
 - 📫 How to reach me: email : code.arpitjain@gmail.com
 
 <!---
