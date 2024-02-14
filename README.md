@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @code-arpit
-- 🌱 I’m currently learning python and trying to develop end-to-end projects.
-- 💞️ I’m looking to collaborate on different backend and deployment domains.
-- 📫 How to reach me: email : code.arpitjain@gmail.com
+Hi! I am a software developer @code-arpit. I develop Frontend, Backend, and Deploy the software.
 
-<!---
-code-arpit/code-arpit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technologies I use :
+BACKEND:
+- Languages: Python, Javascript, Bash Scripting 
+- Framework: Django, FastAPI
+
+FRONTEND:
+- Languages: Javascipt 
+- Framework: React, React Native, 
+
+DATABASE:
+- Language: SQL
+- Type: RDBMS ( Postgresql, MariaDB, MySQL)
+
+Developement Technologies: 
+- Docker
+
+CLOUD:
+- AWS 
+  - Services :
+     - S3 Bucket
+     - EC2
+     - Amazon RDS
+     - CloudWatch
+
+Supporting Services:
+- NGINX
+- Celery
+- Redis, RabbitMQ
+
+
+About Me:
+  - I have always been a curious person who loves to explore different areas of study. 
+  - I like to challenge myself at every step of my life, which ultimately either boosts my self-confidence or teaches me something worth understanding.
