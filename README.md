@@ -8,13 +8,13 @@ Hi! I am a software developer @code-arpit. I develop Frontend, Backend, and Depl
 
   **BACKEND:**
   
-    - Languages: Python, Javascript, Bash Scripting
+    - Languages: Python, Javascript, Bash Scripting, Rust
     - Framework: Django, FastAPI, SQLAlchemy
   
   **FRONTEND:**
   
-    - Languages: Javascipt 
-    - Framework: React, React Native
+    - Languages: Javascipt
+    - Framework: React, React Native, Svelte
   
   **DATABASE:**
   
@@ -25,6 +25,10 @@ Hi! I am a software developer @code-arpit. I develop Frontend, Backend, and Depl
   
     - Docker
     - Docker Compose
+
+  **Deployment Technologies:**
+    
+    - Kubernetes
   
   **CLOUD:**
     
